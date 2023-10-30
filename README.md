@@ -1,6 +1,6 @@
 # UnityInspiredGameObjects
 This project is designed to facilitate advanced learning in C++ programming, with a strong emphasis on object-oriented programming (OOP), unit testing, and 2D mathematics (vectors).
-I did this project by myself.
+I did this project by myself for a school project.
 
 # Learning Objectives:
 Throughout this project, students will gain proficiency in the following areas:
